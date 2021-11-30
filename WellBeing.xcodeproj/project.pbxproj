@@ -12,6 +12,8 @@
 		03F6D3252754BCEA00D0A7C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F6D3242754BCEA00D0A7C3 /* ViewController.swift */; };
 		03F6D32A2754BCED00D0A7C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03F6D3292754BCED00D0A7C3 /* Assets.xcassets */; };
 		03F6D32D2754BCED00D0A7C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03F6D32B2754BCED00D0A7C3 /* LaunchScreen.storyboard */; };
+		03F6D33527560F0100D0A7C3 /* WbTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F6D33427560F0100D0A7C3 /* WbTabBar.swift */; };
+		03F6D3372756113A00D0A7C3 /* viewControllerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F6D3362756113900D0A7C3 /* viewControllerTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		03F6D3292754BCED00D0A7C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03F6D32C2754BCED00D0A7C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03F6D32E2754BCED00D0A7C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03F6D33427560F0100D0A7C3 /* WbTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WbTabBar.swift; sourceTree = "<group>"; };
+		03F6D3362756113900D0A7C3 /* viewControllerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewControllerTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				03F6D3202754BCEA00D0A7C3 /* AppDelegate.swift */,
 				03F6D3222754BCEA00D0A7C3 /* SceneDelegate.swift */,
+				03F6D33427560F0100D0A7C3 /* WbTabBar.swift */,
+				03F6D3362756113900D0A7C3 /* viewControllerTest.swift */,
 				03F6D3242754BCEA00D0A7C3 /* ViewController.swift */,
 				03F6D3292754BCED00D0A7C3 /* Assets.xcassets */,
 				03F6D32B2754BCED00D0A7C3 /* LaunchScreen.storyboard */,
@@ -136,6 +142,8 @@
 			files = (
 				03F6D3252754BCEA00D0A7C3 /* ViewController.swift in Sources */,
 				03F6D3212754BCEA00D0A7C3 /* AppDelegate.swift in Sources */,
+				03F6D3372756113A00D0A7C3 /* viewControllerTest.swift in Sources */,
+				03F6D33527560F0100D0A7C3 /* WbTabBar.swift in Sources */,
 				03F6D3232754BCEA00D0A7C3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
